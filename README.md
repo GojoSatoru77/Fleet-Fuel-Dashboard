@@ -35,7 +35,7 @@ This Power BI dashboard provides insights into the fuel consumption, emissions, 
 
 ## 🖼️ Preview
 
-![Dashboard Preview](snapshot.png)
+![Dashboard Preview](Screenshot.PNG)
 
 ---
 
